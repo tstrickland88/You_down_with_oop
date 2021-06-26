@@ -1,0 +1,29 @@
+{
+  "name": "you_down_with_oop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tstrickland88/You_down_with_oop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tstrickland88/You_down_with_oop/issues"
+  },
+  "homepage": "https://github.com/tstrickland88/You_down_with_oop#readme",
+  "dependencies": {
+    "inquirer": "^8.1.1"
+  },
+  "devDependencies": {
+    "jest": "^27.0.5"
+  }
+}
